@@ -1,6 +1,6 @@
-#Markdown Website - testing
-###Selina Kallio 
-###Cloud services course 
+# Markdown Website - testing
+### Selina Kallio 
+### Cloud services course 
 
 A link to my [main website](https://s311u.github.io/SK_resume/html/index.html)
 ---
